@@ -55,6 +55,8 @@ switch ($operator) {
 
 echo "<br>";
 
+echo "<br>";
+
 
 // iii. Check if a person is eligible to vote by age
 
